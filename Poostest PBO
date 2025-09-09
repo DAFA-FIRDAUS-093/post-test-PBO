@@ -1,0 +1,210 @@
+cd C:\Users\Acer\Documents\NetBeansProjects\Travel_Mobil_Antar_Kota_Kaltim; "JAVA_HOME=C:\\Program Files\\Java\\jdk-24" cmd /c "\"C:\\Users\\Acer\\Downloads\\netbeans-27-bin\\netbeans\\java\\maven\\bin\\mvn.cmd\" -Dexec.vmArgs= \"-Dexec.args=${exec.vmArgs} -classpath %classpath ${exec.mainClass} ${exec.appArgs}\" -Dexec.appArgs= -Dexec.mainClass=com.mycompany.travel_mobil_antar_kota_kaltim.Travel_Mobil_Antar_Kota_Kaltim \"-Dexec.executable=C:\\Program Files\\Java\\jdk-24\\bin\\java.exe\" -Dmaven.ext.class.path=C:\\Users\\Acer\\Downloads\\netbeans-27-bin\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar --no-transfer-progress process-classes org.codehaus.mojo:exec-maven-plugin:3.1.0:exec"
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::staticFieldBase has been called by com.google.inject.internal.aop.HiddenClassDefiner (file:/C:/Users/Acer/Downloads/netbeans-27-bin/netbeans/java/maven/lib/guice-5.1.0-classes.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.inject.internal.aop.HiddenClassDefiner
+WARNING: sun.misc.Unsafe::staticFieldBase will be removed in a future release
+Scanning for projects...
+
+------------< com.mycompany:Travel_Mobil_Antar_Kota_Kaltim >------------
+Building Travel_Mobil_Antar_Kota_Kaltim 1.0-SNAPSHOT
+  from pom.xml
+--------------------------------[ jar ]---------------------------------
+
+--- resources:3.3.1:resources (default-resources) @ Travel_Mobil_Antar_Kota_Kaltim ---
+skip non existing resourceDirectory C:\Users\Acer\Documents\NetBeansProjects\Travel_Mobil_Antar_Kota_Kaltim\src\main\resources
+
+--- compiler:3.13.0:compile (default-compile) @ Travel_Mobil_Antar_Kota_Kaltim ---
+Recompiling the module because of changed source code.
+Compiling 1 source file with javac [debug release 24] to target\classes
+
+--- exec:3.1.0:exec (default-cli) @ Travel_Mobil_Antar_Kota_Kaltim ---
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 1
+Nama Sopir: Dafa
+Sedang diKota Mana: Samarinda
+Kota Tujuan: Bontang
+Tipe Mobil: Sigra
+Data berhasil ditambahkan!
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 2
+DAFTAR TRAVEL
+1. Sopir: Dafa | Sedang diKota Mana: Samarinda | Tujuan: Bontang | Tipe Mobil: Sigra
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 1
+Nama Sopir: Daus
+Sedang diKota Mana: Berau
+Kota Tujuan: Sangatta
+Tipe Mobil: Calya
+Data berhasil ditambahkan!
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 1
+Nama Sopir: Ilmi
+Sedang diKota Mana: Bontang
+Kota Tujuan: Berau
+Tipe Mobil: Avanza
+Data berhasil ditambahkan!
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 1
+Nama Sopir: Andri
+Sedang diKota Mana: Balikpapan
+Kota Tujuan: Sangatta
+Tipe Mobil: Terios
+Data berhasil ditambahkan!
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 2
+DAFTAR TRAVEL
+1. Sopir: Dafa | Sedang diKota Mana: Samarinda | Tujuan: Bontang | Tipe Mobil: Sigra
+2. Sopir: Daus | Sedang diKota Mana: Berau | Tujuan: Sangatta | Tipe Mobil: Calya
+3. Sopir: Ilmi | Sedang diKota Mana: Bontang | Tujuan: Berau | Tipe Mobil: Avanza
+4. Sopir: Andri | Sedang diKota Mana: Balikpapan | Tujuan: Sangatta | Tipe Mobil: Terios
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 2
+DAFTAR TRAVEL
+1. Sopir: Dafa | Sedang diKota Mana: Samarinda | Tujuan: Bontang | Tipe Mobil: Sigra
+2. Sopir: Daus | Sedang diKota Mana: Berau | Tujuan: Sangatta | Tipe Mobil: Calya
+3. Sopir: Ilmi | Sedang diKota Mana: Bontang | Tujuan: Berau | Tipe Mobil: Avanza
+4. Sopir: Andri | Sedang diKota Mana: Balikpapan | Tujuan: Sangatta | Tipe Mobil: Terios
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 1
+Nama Sopir: Gaisan anj
+Sedang diKota Mana: Muara Badak
+Kota Tujuan: Balikpapan
+Tipe Mobil: Rush
+Data berhasil ditambahkan!
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 1
+Nama Sopir: Dio
+Sedang diKota Mana: Balikpapan
+Kota Tujuan: Melak
+Tipe Mobil: Innova diesel
+Data berhasil ditambahkan!
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 1
+Nama Sopir: Ali
+Sedang diKota Mana: Samarinda
+Kota Tujuan: Melak 
+Tipe Mobil: Xpander
+Data berhasil ditambahkan!
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 2
+DAFTAR TRAVEL
+1. Sopir: Dafa | Sedang diKota Mana: Samarinda | Tujuan: Bontang | Tipe Mobil: Sigra
+2. Sopir: Daus | Sedang diKota Mana: Berau | Tujuan: Sangatta | Tipe Mobil: Calya
+3. Sopir: Ilmi | Sedang diKota Mana: Bontang | Tujuan: Berau | Tipe Mobil: Avanza
+4. Sopir: Andri | Sedang diKota Mana: Balikpapan | Tujuan: Sangatta | Tipe Mobil: Terios
+5. Sopir: Gaisan anj | Sedang diKota Mana: Muara Badak | Tujuan: Balikpapan | Tipe Mobil: Rush
+6. Sopir: Dio | Sedang diKota Mana: Balikpapan | Tujuan: Melak | Tipe Mobil: Innova diesel
+7. Sopir: Ali | Sedang diKota Mana: Samarinda | Tujuan: Melak  | Tipe Mobil: Xpander
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 3
+Masukkan nomor data yang ingin diupdate: 5
+Nama Sopir baru: Gaisan
+Sedang diKota Mana baru: Muara Badak
+Kota Tujuan baru: Balikpapan
+Tipe Mobil baru: Agya
+Data berhasil diupdate!
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 2
+DAFTAR TRAVEL
+1. Sopir: Dafa | Sedang diKota Mana: Samarinda | Tujuan: Bontang | Tipe Mobil: Sigra
+2. Sopir: Daus | Sedang diKota Mana: Berau | Tujuan: Sangatta | Tipe Mobil: Calya
+3. Sopir: Ilmi | Sedang diKota Mana: Bontang | Tujuan: Berau | Tipe Mobil: Avanza
+4. Sopir: Andri | Sedang diKota Mana: Balikpapan | Tujuan: Sangatta | Tipe Mobil: Terios
+5. Sopir: Gaisan | Sedang diKota Mana: Muara Badak | Tujuan: Balikpapan | Tipe Mobil: Agya
+6. Sopir: Dio | Sedang diKota Mana: Balikpapan | Tujuan: Melak | Tipe Mobil: Innova diesel
+7. Sopir: Ali | Sedang diKota Mana: Samarinda | Tujuan: Melak  | Tipe Mobil: Xpander
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 4
+Masukkan nomor data yang ingin dihapus: 2
+Data berhasil dihapus!
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 2
+DAFTAR TRAVEL
+1. Sopir: Dafa | Sedang diKota Mana: Samarinda | Tujuan: Bontang | Tipe Mobil: Sigra
+2. Sopir: Ilmi | Sedang diKota Mana: Bontang | Tujuan: Berau | Tipe Mobil: Avanza
+3. Sopir: Andri | Sedang diKota Mana: Balikpapan | Tujuan: Sangatta | Tipe Mobil: Terios
+4. Sopir: Gaisan | Sedang diKota Mana: Muara Badak | Tujuan: Balikpapan | Tipe Mobil: Agya
+5. Sopir: Dio | Sedang diKota Mana: Balikpapan | Tujuan: Melak | Tipe Mobil: Innova diesel
+6. Sopir: Ali | Sedang diKota Mana: Samarinda | Tujuan: Melak  | Tipe Mobil: Xpander
+SISTEM TRAVEL MOBIL ANTAR KOTA KALTIM
+1. Tambah Data Travel
+2. Lihat Semua Data Travel
+3. Update Data Travel
+4. Hapus Data Travel
+5. Keluar
+Pilih menu: 
