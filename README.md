@@ -18,11 +18,22 @@ Program dibuat dengan menggunakan:
 - Perulangan `while` agar program tetap berjalan hingga user memilih keluar
   
 
-1. Disini saya akan memberikan dokumentasi jika user ingin menambahkan daftar nama sopir, sedang berada dimana, kota tujuan, dan tipe mobil apa yang dipakai sopir. 
+1. Disini saya akan mendokumentasikan jika user ingin menambahkan daftar nama sopir, sedang berada dimana, kota tujuan, dan tipe mobil apa yang dipakai sopir. 
 
 
 Gambarnya:
 
 
 <img width="280" height="204" alt="image" src="https://github.com/user-attachments/assets/b16205f8-2073-4688-a09a-f1606a2326de" />
+
+
+
+2. Disini saya akan mendokumentasikan jika user ingin melihat semua daftar dari sopir-sopir yang ada ditravel
+
+
+Gambarnya:
+
+
+<img width="623" height="204" alt="image" src="https://github.com/user-attachments/assets/222f2e1b-2e09-4d48-bf9e-12b206060025" />
+
 
