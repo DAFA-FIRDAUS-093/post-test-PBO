@@ -17,7 +17,7 @@ Program dibuat dengan menggunakan:
 - Percabangan `if-else` untuk pemilihan menu
 - Perulangan `while` agar program tetap berjalan hingga user memilih keluar
 
-Disini saya akan memberikan dokumentasi jika user ingin menambahkan daftar nama sopir, sedang berada dimana, kota tujuan, dan tipe mobil apa yang dipakai sopir. 
+1. Disini saya akan memberikan dokumentasi jika user ingin menambahkan daftar nama sopir, sedang berada dimana, kota tujuan, dan tipe mobil apa yang dipakai sopir. 
 
 
 Gambarnya:
